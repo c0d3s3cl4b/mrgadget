@@ -59,7 +59,7 @@ Temel bağımlılıklar: `curl`, `whois`, `bind-tools` (nslookup), `grep`.
 
 ```bash
 # Repoyu klonlayın
-git clone https://github.com/p0is0n3r404/mrgadget.git
+git clone https://github.com/c0d3s3cl4b/mrgadget.git
 
 # Dizine girin
 cd mrgadget
