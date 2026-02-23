@@ -88,8 +88,13 @@ Bu araç **sadece eğitim ve yasal güvenlik testleri** amacıyla geliştirilmi�
 
 ---
 
-## 👨‍💻 Geliştirici
+<div align="center">
 
-**Coded by p0is0n3r404**
+**⭐ Projeyi beğendiysen yıldız bırakmayı unutma! ⭐**
+
+_Made with 💀 by c0d3s3cl4b_
+
+</div>
+
 
 Projeye katkıda bulunmak veya hata bildirmek için [Issues](https://github.com/p0is0n3r404/mrgadget/issues) sayfasını kullanabilirsiniz.
